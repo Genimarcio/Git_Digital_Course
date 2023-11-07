@@ -2,4 +2,4 @@
 
 ## Salvando modificações no git
 
-## 
+## git pull
