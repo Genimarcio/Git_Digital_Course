@@ -3,3 +3,5 @@
 ## Salvando modificações no git
 
 ## git pull
+
+## git fech
